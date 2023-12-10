@@ -175,7 +175,7 @@ ER Model
 .LP
 .ce
 .SM
-.pdfhref W -D https:example.com "Link to ER Model"
+.pdfhref W -D https://github.com/qwktrik/comp3005-final_project/blob/main/ERFitness.png https://github.com/qwktrik/comp3005-final_project/blob/main/ERFitness.png
 
 .SH
 .qhm
@@ -208,7 +208,7 @@ This is because I will get some extra tables from many to many relationships and
 .LP
 .ce
 .SM
-.pdfhref W -D https:example.com "Link to DB Structure Ver 1"
+.pdfhref W -D https://github.com/qwktrik/comp3005-final_project/blob/main/dbversion1.png https://github.com/qwktrik/comp3005-final_project/blob/main/dbversion1.png
 
 .SH
 .qhm
@@ -382,7 +382,7 @@ This section will go over the commands to create the database described by the r
 .DE
 .LP
 .ce
-.pdfhref W -D https://example.com "Link to File"
+.pdfhref W -D https://github.com/qwktrik/comp3005-final_project/blob/main/DDL.sql https://github.com/qwktrik/comp3005-final_project/blob/main/DDL.sql
 
 .SH
 .qhm
@@ -400,7 +400,7 @@ Populating Database
 .DE
 .LP
 .ce
-.pdfhref W -D https://example.com "Link to File"
+.pdfhref W -D https://github.com/qwktrik/comp3005-final_project/blob/main/DML.sql https://github.com/qwktrik/comp3005-final_project/blob/main/DML.sql
 
 .SH
 Select Statements
@@ -452,7 +452,7 @@ WHERE group_event_id IN (
 );
 .b2
 .ce
-.pdfhref W -D https://example.com "Link to File"
+.pdfhref W -D https://github.com/qwktrik/comp3005-final_project/blob/main/SELECT.sql https://github.com/qwktrik/comp3005-final_project/blob/main/SELECT.sql
 
 .SH
 Update Statements
@@ -476,7 +476,7 @@ SET complete = TRUE
 WHERE member_id = 4 AND name = 'Flexibility';
 .b2
 .ce
-.pdfhref W -D https://example.com "Link to File"
+.pdfhref W -D https://github.com/qwktrik/comp3005-final_project/blob/main/UPDATE.sql https://github.com/qwktrik/comp3005-final_project/blob/main/UPDATE.sql
 
 .SH
 .qhm
