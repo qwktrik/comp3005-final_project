@@ -1,7 +1,7 @@
 # COMP3005 Final Project
 This my final project submission the report can be found as a pdf titled [project_report.pdf](https://github.com/qwktrik/comp3005-final_project/blob/main/project_report.pdf).
 
-Note: a quick note that I noticed after creation of all the material please discard the existance of the Cost attribute to the Group Event. It makes no sense and costs should only belong to the Service table.
+**Note: a quick note that I noticed after creation of all the material please discard the existance of the Cost attribute to the Group Event. It makes no sense and costs should only belong to the Service table.**
 
 Create a new PostgreSQL database and apply the following queries:
 
